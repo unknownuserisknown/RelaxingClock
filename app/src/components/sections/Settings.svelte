@@ -40,7 +40,7 @@
         </SettingsBox>
         <!-- <Donate />
         <ProTips /> -->
-        <Spotify />
+        <!-- <Spotify /> -->
         <!-- <Weather /> -->
         <Timer />
         <Alarm />

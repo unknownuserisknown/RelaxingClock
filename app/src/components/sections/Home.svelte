@@ -96,7 +96,7 @@
         {/if}
     </div>
 
-    <SpotifyBox />
+    <!-- <SpotifyBox /> -->
 
     <div
         class="hidden md:flex justify-center absolute bottom-5 left-1/2 transform -translate-x-1/2 lg:scale-125"
