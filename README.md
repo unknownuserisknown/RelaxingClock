@@ -20,7 +20,7 @@ The sidecar of your working days, Relaxing Clock is an awesome web app you can k
     <img src="docs/commandbox1.gif" width="500"/>
 </p>
 
-The new version of Relaxing Clock includes a new "command box" feature. It can be opened by pressing `Ctrl + Space` and unlocks lots of possibilities. Learn more about the usage of the command box [in the blog](https://blog.relaxingclock.com/posts/how_to_use_the_command_line/).
+The new version of Relaxing Clock includes a new "command box" feature. It can be opened by pressing `Ctrl + Space` and unlocks lots of possibilities.
 
 Missing something? Pressing `?` at any time will reveal a modal with all the available shortcuts/commands.
 
